@@ -191,6 +191,7 @@ Other significant issues:
 * [2/9. Rust Boulder/Denver - Redox OS with Denver Open Source OS](https://www.meetup.com/Rust-Boulder-Denver/events/237016107/).
 * [2/9. Columbus Rust Society - Monthly Meeting](https://www.meetup.com/columbus-rs/events/236907254/).
 * [2/9. Rust release triage](https://internals.rust-lang.org/t/release-cycle-triage-proposal/3544).
+* [2/16. RustDC Meetup - Try+Learn clap.rs!](https://www.meetup.com/RustDC/events/236719329/)
 
 If you are running a Rust event please add it to the [calendar] to get
 it mentioned here. Email the [Rust Community Team][community] for access.
